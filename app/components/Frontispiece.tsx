@@ -25,7 +25,7 @@ export default function Frontispiece() {
                 <span>Read the atlas</span>
                 <span aria-hidden="true">→</span>
               </a>
-              <a className="btn btn-ghost" href="https://github.com">
+              <a className="btn btn-ghost" href="https://github.com/spatialhq/home">
                 <span>★ Star on GitHub</span>
               </a>
             </div>

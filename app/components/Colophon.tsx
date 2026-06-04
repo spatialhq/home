@@ -31,7 +31,7 @@ export default function Colophon() {
               will live in it.
             </p>
             <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
-              <a className="btn btn-primary" href="https://github.com">
+              <a className="btn btn-primary" href="https://github.com/spatialhq/home">
                 <span>Get started</span>
                 <span aria-hidden="true">→</span>
               </a>
