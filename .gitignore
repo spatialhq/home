@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+
+.env*
+.DS_Store
+*.log
+
+README*
+CHANGELOG*
+docs/
+plans/
+PLAN*
