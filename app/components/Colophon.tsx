@@ -86,6 +86,9 @@ export default function Colophon() {
               <li>
                 <a href="https://github.com/spatialhq">GitHub</a>
               </li>
+              <li>
+                <a href="https://x.com/spatialofficial">X</a>
+              </li>
             </ul>
           </div>
         </div>
