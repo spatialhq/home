@@ -70,6 +70,15 @@ export const metadata: Metadata = {
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
     locale: "en_US",
+    images: [
+      {
+        url: "/og.png",
+        width: 1200,
+        height: 630,
+        alt: SITE_TITLE,
+        type: "image/png",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
@@ -77,6 +86,7 @@ export const metadata: Metadata = {
     description: SITE_DESCRIPTION,
     site: "@spatialofficial",
     creator: "@spatialofficial",
+    images: ["/og.png"],
   },
   robots: {
     index: true,

@@ -98,7 +98,7 @@ export default function Colophon() {
             SpatialOS / Field Atlas / Vol. I / Edition 04 / © 2026
           </span>
           <span className="status">
-            14,237 active scans / all systems normal
+            328 active scans / all systems normal
           </span>
         </div>
       </div>

@@ -53,14 +53,14 @@ export default function Applications() {
             </div>
             <div className="app-stat">
               <span className="v">
-                14,237
+                328
                 <span style={{ fontSize: 18, color: "var(--color-ink-3)" }}>
                   {" "}
                   scans
                 </span>
               </span>
               <span className="l">
-                across 38 cities
+                across 12 cities
                 <br />
                 home / office / café / warehouse
               </span>

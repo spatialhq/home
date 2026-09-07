@@ -87,7 +87,7 @@ export default function Register() {
             <div className="rank">iv</div>
             <div className="who">
               <div className="nm">voxel.vu</div>
-              <div className="rg">Hanoi, VN / Silver</div>
+              <div className="rg">Lisbon, PT / Silver</div>
             </div>
             <div className="sess">142 sessions</div>
             <div className="area">

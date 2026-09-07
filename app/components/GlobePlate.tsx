@@ -8,12 +8,11 @@ const CITIES: City[] = [
   { name: "Tokyo", lat: 35.7, lng: 139.7 },
   { name: "Berlin", lat: 52.5, lng: 13.4 },
   { name: "Austin", lat: 30.3, lng: -97.7 },
-  { name: "Hanoi", lat: 21.0, lng: 105.8 },
   { name: "Seattle", lat: 47.6, lng: -122.3 },
   { name: "São Paulo", lat: -23.5, lng: -46.6 },
 ];
 
-const COUNT_TARGET = 14237;
+const COUNT_TARGET = 328;
 const COUNT_FRAMES = 60;
 
 function formatCoord(lat: number, lng: number): string {
@@ -190,7 +189,7 @@ export default function GlobePlate() {
         </div>
         <div className="gp-count">
           <div className="n">{count.toLocaleString("en-US")}</div>
-          <div className="l">scans / 38 cities</div>
+          <div className="l">scans / 12 cities</div>
         </div>
         <div className="gp-label">
           <span>
