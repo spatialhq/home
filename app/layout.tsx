@@ -24,7 +24,7 @@ const tinos = Tinos({
   display: "swap",
 });
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://spatialhq.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://spatialos.tech";
 const SITE_TITLE = "SpatialOS / Field Atlas of Interior Geometries";
 const SITE_DESCRIPTION =
   "Crowdsourced LiDAR scans from any phone, reconstructed into robotics-ready datasets for embodied AI, robotics, and spatial computing.";
