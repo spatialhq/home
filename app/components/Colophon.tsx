@@ -84,16 +84,7 @@ export default function Colophon() {
             <h4>Community</h4>
             <ul>
               <li>
-                <a href="#">GitHub</a>
-              </li>
-              <li>
-                <a href="#">Discord</a>
-              </li>
-              <li>
-                <a href="#">Leaderboard</a>
-              </li>
-              <li>
-                <a href="#">Contributors</a>
+                <a href="https://github.com/spatialhq">GitHub</a>
               </li>
             </ul>
           </div>
