@@ -81,23 +81,6 @@ export default function Colophon() {
             </ul>
           </div>
           <div className="col-block">
-            <h4>Reference</h4>
-            <ul>
-              <li>
-                <a href="#">Documentation</a>
-              </li>
-              <li>
-                <a href="#">Data schema</a>
-              </li>
-              <li>
-                <a href="#">Quality scoring</a>
-              </li>
-              <li>
-                <a href="#">Research papers</a>
-              </li>
-            </ul>
-          </div>
-          <div className="col-block">
             <h4>Community</h4>
             <ul>
               <li>
